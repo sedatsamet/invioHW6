@@ -1,0 +1,12 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "symbols" : [
+    {
+      "filename" : "local_shipping-local_shipping_symbol.svg",
+      "idiom" : "universal"
+    }
+  ]
+}
